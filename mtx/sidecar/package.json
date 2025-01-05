@@ -1,0 +1,9 @@
+{
+  "cds": {
+    "requires": {
+      "destinations": true,
+      "html5-repo": true,
+      "portal": true
+    }
+  }
+}
